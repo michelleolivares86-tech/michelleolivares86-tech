@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **the Data Analyst Rural Bootcamp 2026 @ Factoria F5**
 
-- 🌱 I’m currently learning **python, Google Sheets and Git/Github**
+- 🌱 I’m currently learning **Python, Google Sheets and Git/Github**
 
 - 👯 I’m looking to collaborate on **any project that helps me gain experience**
 

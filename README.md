@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Michelle</h1>
-<h3 align="center">I used to be a bartender but the nerd in me wants to come outside. Trying to change my life for the better before I turn 30.</h3>
+<h3 align="center">I used to be a bartender but the nerd in me wants to come outside.</h3>
+  <h3 align="center">Trying to change my life for the better before I turn 30.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelleolivares86-tech&label=Profile%20views&color=0e75b6&style=flat" alt="michelleolivares86-tech" /> </p>
 

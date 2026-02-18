@@ -7,7 +7,9 @@ Trying to change my life for the better before I turn 30.
 ---
 ## 🧠  Currently learning
    
-  Python, Google Sheets and Git/Github
+  - **Python** for beginners 
+  - Pivot tables and interactive charts in **Google Sheets**
+  - **Git/Github** as a way to create my own portfolio and working in repositories.
   
 ## 👥  I'm looking to collaborate on...
    

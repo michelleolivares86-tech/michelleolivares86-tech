@@ -12,8 +12,11 @@ Trying to change my life for the better before I turn 30.
   - **Git/Github** as a way to create my own portfolio and working in repositories.
   
 ## 👥  I'm looking to collaborate on...
-   
-   any project that helps me gain experience
+   - Interesting projects
+   - meeting people currently working as a Data Analyst to gain more experience
+
+
+  
 
 ---
 * 🌍  I'm based in Asturias

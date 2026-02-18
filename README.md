@@ -2,16 +2,20 @@
 =================================================================================================================================
 
 Trying to change my life for the better before I turn 30. 
-Student at the Data Analyst Rural Bootcamp 2026 @ Factoria F5
+*Student at the Data Analyst Rural Bootcamp 2026 @ Factoria F5*
 
 ---
+## 🧠  Currently learning
+   
+  Python, Google Sheets and Git/Github
+  
+## 👥  I'm looking to collaborate on...
+   
+   any project that helps me gain experience
 
+---
 * 🌍  I'm based in Asturias
 * ✉️  You can contact me at [michelleolivares86@gmail.com](mailto:michelleolivares86@gmail.com)
-
----
-* 🧠  I'm currently learning Python, Google Sheets and Git/Github
-* 👥  I'm looking to collaborate on any project that helps me gain experience
 
 ---
 

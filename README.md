@@ -7,13 +7,13 @@ Trying to change my life for the better before I turn 30.
 ---
 ## 🧠  Learning...
    
-  - **Python** for beginners 
-  - Pivot tables and interactive charts in **Google Sheets**
+  - **Python** for beginners.
+  - Pivot tables and interactive charts in **Google Sheets.**
   - **Git/Github** as a way to create my own portfolio and working in repositories.
   
 ## 👥  I'm looking to collaborate on...
-   - Interesting projects
-   - meeting people currently working as a Data Analyst to gain more experience
+   - Interesting projects.
+   - meeting people currently working as a Data Analyst to gain more experience.
 
 
   
@@ -21,10 +21,10 @@ Trying to change my life for the better before I turn 30.
 
 ## 🌍  I'm based in Asturias and you can contact me at...
 * ✉️  [michelleolivares86@gmail.com](mailto:michelleolivares86@gmail.com)
-* Git/Github: you're here!
+* **Github**: you're here!
 
 ---
-
+## 🛠️ Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 </p>

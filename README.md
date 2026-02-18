@@ -5,7 +5,7 @@ Trying to change my life for the better before I turn 30.
 *Student at the Data Analyst Rural Bootcamp 2026 @ Factoria F5*
 
 ---
-## 🧠  Currently learning
+## 🧠  Learning...
    
   - **Python** for beginners 
   - Pivot tables and interactive charts in **Google Sheets**

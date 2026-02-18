@@ -1,6 +1,6 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! I'm Michelle
 =================================================================================================================================
-
+## ☕ About me..
 Trying to change my life for the better before I turn 30. 
 *Student at the Data Analyst Rural Bootcamp 2026 @ Factoria F5*
 
@@ -18,9 +18,10 @@ Trying to change my life for the better before I turn 30.
 
   
 
----
-* 🌍  I'm based in Asturias
-* ✉️  You can contact me at [michelleolivares86@gmail.com](mailto:michelleolivares86@gmail.com)
+
+## 🌍  I'm based in Asturias and you can contact me at...
+* ✉️  [michelleolivares86@gmail.com](mailto:michelleolivares86@gmail.com)
+* Git/Github: you're here!
 
 ---
 

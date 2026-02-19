@@ -21,6 +21,7 @@ Trying to change my life for the better before I turn 30.
 
 ## 🌍  I'm based in Asturias and you can contact me at...
 * ✉️  [michelleolivares86@gmail.com](mailto:michelleolivares86@gmail.com)
+* Linkedin: https://www.linkedin.com/in/michelle-olivares-2072773b2/ 
 * **Github**: you're here!
 
 ---
